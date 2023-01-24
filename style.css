@@ -1,0 +1,49 @@
+body {
+  background-image: url('33349.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+  font-family: Arial, sans-serif;
+  text-align: center;
+ padding: 32%;
+  width: fit-content;
+  height: fit-content;
+  align-items: center;
+  justify-items:center ;
+}
+
+
+input[type="text"], button {
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+#result {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+#grid {
+  background-color: aliceblue;
+  opacity: 1
+}
+#result-img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
